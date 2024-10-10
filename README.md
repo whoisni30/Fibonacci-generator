@@ -49,8 +49,8 @@ Ensure you have Python installed on your machine. If not, download it from the o
 ### Step 2️⃣: Download the Source Code
 Clone or download this repository:
 ```bash
-git clone https://github.com/mdriyadkhan585/fibonacci-sequence-generator-python.git
-cd fibonacci-sequence-generator-python
+git clone https://github.com/mdriyadkhan585/https://github.com/whoisni30/fibonacci-generator.git
+cd fibonacci-generator
 ```
 
 ### Step 3️⃣: Run the Program
